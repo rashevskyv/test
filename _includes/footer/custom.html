@@ -1,1 +1,47 @@
 <a href="#" class="scrollup">Наверх</a>
+
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+	  
+		$(window).scroll(function(){
+			if ($(this).scrollTop() > 300) {
+				$('.scrollup').fadeIn();
+			} else {
+				$('.scrollup').fadeOut();
+			}
+			});
+			  
+			$('.scrollup').click(function(){
+			$("html, body").animate({ scrollTop: 0 }, 600);
+			return false;
+		});
+	  
+	});
+	
+	$(function () {
+		$('.popup-modal').magnificPopup({
+			type: 'inline',
+			preloader: false,
+			focus: '#username',
+			modal: true
+		});
+		$(document).on('click', '.popup-modal-dismiss', function (e) {
+			e.preventDefault();
+			$.magnificPopup.close();
+		});
+	});
+
+	$(document).ready(function() {
+  		$(window).on('load', function() {
+
+			$('.popup-modal')[0].click();
+				
+		});
+	});
+		
+
+</script>

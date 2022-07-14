@@ -60,7 +60,6 @@ atom_feed:
 google_site_verification : 
 bing_site_verification   : 
 alexa_site_verification  :
-yandex_site_verification :
 
 # Social Sharing
 twitter:
@@ -189,11 +188,11 @@ defaults:
       author_profile: false
 
 # Plugins
-plugins:
-  # - jekyll-sitemap
-  # - jekyll-gist
-  # - jekyll-feed
-  # - jemoji
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:

@@ -1,0 +1,179 @@
+I"|
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item" style="padding-bottom: 40px;">
+        
+            <a href="https://switch.customfw.xyz/"><div class="archive__item-teaser">
+            <img src="https://127.0.0.1:4000/images/landing/switch.jpg" alt="" />
+          </div>
+          </a>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Switch</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Полное руководство по установке кастомной прошивки на Nintendo Switch</p>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item" style="padding-bottom: 40px;">
+        
+            <a href="https://3ds.customfw.xyz/"><div class="archive__item-teaser">
+            <img src="https://127.0.0.1:4000/images/landing/3ds.jpg" alt="" />
+          </div>
+          </a>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">3DS</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Полное руководство по установке кастомной прошивки на 3DS, от начала до boot9strap.</p>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item" style="padding-bottom: 40px;">
+        
+            <a href="https://vita.customfw.xyz/"><div class="archive__item-teaser">
+            <img src="https://127.0.0.1:4000/images/landing/vita.jpg" alt="" />
+          </div>
+          </a>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">PS Vita / PS TV</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Полное руководство по прошивке PS Vita / PS Vita TV, от начала до Ensō.</p>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item" style="padding-bottom: 40px;">
+        
+            <a href="https://ps4.customfw.xyz/"><div class="archive__item-teaser">
+            <img src="https://127.0.0.1:4000/images/landing/ps4.jpg" alt="" />
+          </div>
+          </a>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">PS4</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Полное руководство по установке кастомной прошивки на PS4 / PS4 PRO</p>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item" style="padding-bottom: 40px;">
+        
+            <a href="https://wiiu.customfw.xyz/"><div class="archive__item-teaser">
+            <img src="https://127.0.0.1:4000/images/landing/wiiu.jpg" alt="" />
+          </div>
+          </a>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Wii U</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Полное руководство по установке кастомной прошивки на Wii U, от начала до Coldboot Haxchi</p>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item" style="padding-bottom: 40px;">
+        
+            <a href="https://dsi.customfw.xyz/"><div class="archive__item-teaser">
+            <img src="https://127.0.0.1:4000/images/landing/dsi.png" alt="" />
+          </div>
+          </a>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">DSi</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Полное руководство по установке кастомной прошивки на DSi</p>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<p><a class="popup-modal" href="#test-modal" style="visibility: hidden !important;">Open modal</a></p>
+
+<div id="test-modal" class="mfp-hide white-popup-block">
+	<h1>Modal dialog</h1>
+	<p>You won't be able to dismiss this by usual means (escape or
+		click button), but you can close it programatically based on
+		user choices or actions.</p>
+	<p><a class="popup-modal-dismiss" href="#">Dismiss</a></p>
+</div>
+:ET
