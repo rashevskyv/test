@@ -95,9 +95,9 @@
   margin: 0 auto;
   text-align: left;
   z-index: $mfp-z-index-base + 5;
-  background: #fff;
-  padding: 40px;
-  border-radius: 20px;
+  background: #fff !important;
+  padding: 40px !important;
+  border-radius: 20px !important;
 }
 .mfp-inline-holder,
 .mfp-ajax-holder {
